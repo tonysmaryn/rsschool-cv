@@ -1,6 +1,6 @@
 # MARYN ANTON
 ## Contacts
-Phone: +375291406592
+Phone: +375291406592, +375298847995
 Email: tonysmaryn@gmail.com
 
 ## Information
