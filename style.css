@@ -1,0 +1,27 @@
+* {
+  margin: 0 auto;
+}
+
+.wrapper {
+  width: 1024px;
+}
+
+header {
+  text-align: center;
+}
+
+.indent {
+  margin: 30px 0;
+}
+
+li {
+  list-style-type: none;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+.weight {
+    font-style: italic;
+}
